@@ -1,6 +1,3 @@
-Certainly! Here's a sample `README.md` file for your web crawler project on GitHub. This file provides an overview of the project, instructions for setting it up, and how to use it.
-
----
 
 # Web Crawler
 
