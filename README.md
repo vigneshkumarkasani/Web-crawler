@@ -72,14 +72,6 @@ Crawled 5 pages.
 - This script does not handle request errors or HTTP status codes other than 200. Consider adding error handling for production use.
 - The crawler is basic and does not respect `robots.txt`. Use it responsibly and consider implementing `robots.txt` checking if you intend to use it on various websites.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to adjust the content to better fit your project’s specifics or to add any additional information you deem necessary.
